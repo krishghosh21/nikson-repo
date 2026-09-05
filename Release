@@ -1,0 +1,24 @@
+Origin: NiksonOS Repository
+Label: NiksonOS
+Suite: stable
+Codename: trixie
+Architectures: amd64 arm64 all
+Components: main
+Description: Official custom APT repository for NiksonOS security tools
+Date: Sat, 05 Sep 2026 13:50:34 +0000
+MD5Sum:
+ 1b1c6aa09e84d2bc3f15430db2ae34c7              376 Packages
+ 5e79abb386f12a8a6e6876cc9466fad1              308 Packages.gz
+ 4ae66fe205c7cfa82c46afbaacab7d04              233 Release
+SHA1:
+ 8ab3d1b65c3d2c99bce2624938971c920b57a21f              376 Packages
+ 828f401bf4fa7a1b13677c56293145fec67ca020              308 Packages.gz
+ fa5d038b015926958285f35dce42fff7af4d0530              233 Release
+SHA256:
+ 4bed2b12f1f5b47efdc8541e81f735d53c14621b12bc7c396249a4008ee1707d              376 Packages
+ 55ae6c42d5cd745c0629269384d512f4defe0f78dc96266ec22b228f8edc0685              308 Packages.gz
+ 28e65476cf918d5fff5411a224795f88b9be59211040469b1eaf1b1cd5a8bc28              233 Release
+SHA512:
+ 25bcdfe4e9735a88dc0348cb98476c07751923d9313385ee96d7e775e27f49a3ae355b5d47e3a528f34cce704b547bf5f32f13c13ec238196c2880b16ccb51ac              376 Packages
+ c0ce78b92d4062431ba7ea90ab9a2c64c08afc1299ec300502c024bbb37b17d02ae24c2c73e171fb243c550f5104051f5385cf71f2b9b7fc9504bff383132fdc              308 Packages.gz
+ 2f68d3409570eab96298e3e6cca670f6de95702a6955c78cbd628b8fe81d378f16d7491ef18ce6cb216995cdabc3f47958d012b3001b0fb729f74d74e0b2ab9a              233 Release

@@ -1,0 +1,11 @@
+Package: nikson-test
+Version: 1.0-1
+Architecture: all
+Maintainer: Krish Ghosh <niksonos@gmail.com>
+Filename: packages/nikson-test_1.0-1.deb
+Size: 836
+MD5sum: 26f8a0220e2986be266a2962f6f8972d
+SHA1: ba41f81c87fdf13a0b1b3d1a81012066d20541c9
+SHA256: 3c73bed4338efb709d1943954101d783769f3b97c700fadfeafa04b997bbdc43
+Description: A test package for NiksonOS custom APT repository.
+
